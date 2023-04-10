@@ -20,6 +20,13 @@
   outline: 2px solid red;
   outline-offset: -2px;
 }
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
 h1,
 h2,
 h3,
