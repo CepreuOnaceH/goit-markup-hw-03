@@ -46,6 +46,7 @@ button {
 .header-container {
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 .class-header {
   border-bottom: 1px solid #e7e9fc;
@@ -89,7 +90,6 @@ body {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  gap: 24px;
 }
 .list:hover {
   color: var(--hero-btn-bcg-color);
