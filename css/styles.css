@@ -240,7 +240,7 @@ body {
 }
 .our-team-list {
   background: var(--biggest-text-color);
-  width: calc((100% - 3 * 24px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .our-team-list-text {
   color: var(--secondary-text-color);
@@ -271,7 +271,6 @@ body {
 /* Portfolio section */
 
 .portfolio-list {
-  width: calc((100% - 3 * 16px) / 3);
   width: 1128px;
   display: flex;
   gap: 24px;
