@@ -191,7 +191,7 @@ body {
   margin-bottom: 8px
 }
 .about-us-list {
-  width calc((100% - 3 * 24px) / 4);
+  width calc((100% - 3 * 24px) / 4)
 }
 .about-us-container {
   display: flex;
@@ -238,6 +238,8 @@ body {
 }
 .our-team-list {
   background: var(--biggest-text-color);
+  width: calc((100% - 3 * 24px) / 4)
+
 }
 .our-team-list-text {
   color: var(--secondary-text-color);
