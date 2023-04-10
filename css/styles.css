@@ -20,11 +20,9 @@
   outline: 2px solid red;
   outline-offset: -2px;
 }
-ul,
-ol {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
+ul {
+  margin: 0;
+  padding: 0;
 }
 
 h1,
@@ -278,7 +276,6 @@ body {
 /* Portfolio section */
 
 .portfolio-list {
-  width: 1128px;
   display: flex;
   gap: 24px;
   margin-left: 0px;
