@@ -362,13 +362,13 @@ body {
   background-color: var(--primary-text-color);
   padding: 100px 0px;
 }
-.footer-list {
+/* .footer-list {
   width: 264px;
-  margin-left: 0px;
+  margin-left: 0px; */
 }
-.footer-list-item {
+/* .footer-list-item {
   padding-top: 100px;
-  margin-bottom: 16px;
+  margin-bottom: 16px; */
 }
 .logo {
   font-family: "Raleway", sans-serif;
