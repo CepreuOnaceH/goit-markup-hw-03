@@ -68,6 +68,7 @@ body {
 }
 .link {
   text-decoration: none;
+  margin-right: 76px;
 }
 .link:focus {
   color: var(--hero-btn-bcg-color);
