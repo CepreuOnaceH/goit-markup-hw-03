@@ -175,6 +175,9 @@ body {
   background-color: var(--hero-btn-bcg-color);
 }
 /* About us section */
+.section {
+  padding: 120px 0;
+}
 
 .about-us-header {
   font-weight: 500;
