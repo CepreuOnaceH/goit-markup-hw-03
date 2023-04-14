@@ -68,7 +68,6 @@ body {
   align-items: center;
   gap: 40px;
   height: 72px;
-  margin-left: 76px;
 }
 .navigation {
   display: flex;
@@ -147,10 +146,10 @@ body {
 .container-hero {
   align-content: center;
   justify-content: center;
-  padding-bottom: 188px;
 }
 .hero {
   background-color: var(--primary-text-color);
+  padding: 188px 0;
 }
 .hero-title {
   color: var(--biggest-text-color);
@@ -160,7 +159,7 @@ body {
   letter-spacing: 0.02em;
   max-width: 496px;
   display: inline-block;
-  margin: 188px 0px 0px 316px;
+  margin-left: 316px;
 }
 .hero-btn {
   background-color: var(--accent-text-color);
@@ -379,6 +378,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--accent-text-color);
+  margin-right: 76px;
 }
 
 .logo-link {
